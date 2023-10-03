@@ -1,0 +1,15 @@
+{
+  "name": "ivanbolotov",
+  "authors": [
+    {
+      "name": "ivanbolotov",
+      "email": "bolotov_ii@edu.surgu.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework"
+    }
+  },
+  "require": {}
+}
